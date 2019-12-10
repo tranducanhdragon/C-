@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-void Merge(int a[], int b[], int l, int r, int t){
+void Merge(int a[], int l, int r, int t){
 	int i = l;
 	int j = t+1;
 	int p = l;
